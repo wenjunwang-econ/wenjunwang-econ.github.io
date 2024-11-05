@@ -3,7 +3,9 @@ title: "The Incidence of the U.S.-China Solar Trade War"
 collection: publications
 category: manuscripts
 permalink: /publication/solar_trade_war
-excerpt: 'Use structural models to quantify the impact of U.S.-China trade war in the solar sector between 2012-2018. Presented in Berkeley-Harvard-Yale Energy and Environmental Economics Seminar, the U.S. Department of Energy'
+excerpt: 'We use structural models to quantify the impact of U.S.-China trade war in the solar sector between 2012-2018. 
+
+Presented in Berkeley-Harvard-Yale Energy and Environmental Economics Seminar, the U.S. Department of Energy'
 
 paperurl: 'http://wenjunwang-econ.github.io/files/incidence-u.s.-china-solar-trade-war_revised_19072024.pdf'
 ---
