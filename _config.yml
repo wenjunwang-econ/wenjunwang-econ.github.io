@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Wenjun' Website"
 title_separator          : "-"
-name                     : &name "Wenjun Wang"
+name                     : #&name "Wenjun Wang"
 description              : &description "personal description"
 url                      : https://wenjunwang-econ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
