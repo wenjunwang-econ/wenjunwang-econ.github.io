@@ -1,6 +1,8 @@
 ---
 title: "The Incidence of the U.S.-China Solar Trade War"
+
 Conditionally accepted at Journal of the Association of Environmental and Resource Economists
+
 permalink: /publication/solar_trade_war
 excerpt: 'Presented in Berkeley-Harvard-Yale Energy and Environmental Economics Seminar, the U.S. Department of Energy'
 
