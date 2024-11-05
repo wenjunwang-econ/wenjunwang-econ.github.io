@@ -1,11 +1,13 @@
 ---
 title: "The Incidence of the U.S.-China Solar Trade War"
 
-Conditionally accepted at Journal of the Association of Environmental and Resource Economists
+collection: publications
+category: conferences
 
 permalink: /publication/solar_trade_war
 excerpt: 'Presented in Berkeley-Harvard-Yale Energy and Environmental Economics Seminar, the U.S. Department of Energy'
-
+date: 2024-11-05
+venue: 'Conditionally accepted at Journal of the Association of Environmental and Resource Economists'
 paperurl: 'http://wenjunwang-econ.github.io/files/incidence-u.s.-china-solar-trade-war_revised_19072024.pdf'
 ---
 
