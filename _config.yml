@@ -21,7 +21,7 @@ repository               : "wenjunwang-econ/wenjunwang-econ.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "site-logo.png" # "photo.jpg"
+  avatar           : "profile.png" # "photo.jpg"
   name             : "Wenjun Wang"
   pronouns         : # example: "she/her"  
   location         : "Beijing, China"
