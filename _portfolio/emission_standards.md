@@ -4,7 +4,7 @@ title: "Blue Sky Protection and Corporate Financing Decisions-- Evidence from Ul
 
 permalink: /portfolio/emission_standards
 excerpt: 'With Jia Liu (Portsmouth University)'
-date: 2024-09-01
+date: 2024-03-01
 
 paperurl: 'http://wenjunwang-econ.github.io/files/Blue_sky_protection-EmissionStandards-V6_GitHub.pdf'
 
