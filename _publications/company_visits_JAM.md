@@ -1,9 +1,9 @@
 ---
-title: "Company visits and mutual fund performance: new evidence on managerial skills"
+title: "Company Visits and Mutual Fund Performance: New Evidence on Managerial Skills"
 collection: publications
 category: manuscripts
 permalink: /publication/company_visits_JAM
-excerpt: 'Company visits provide information.'
+excerpt: 'Company visits provide valuable information.'
 date: 2022-06-01
 venue: 'Journal of Asset Management'
 paperurl: 'http://wenjunwang-econ.github.io/files/Li_Wang_MutualFund_Journal_of_Asset_Management_2022.pdf'
