@@ -2,11 +2,11 @@
 title: "One Step Forward, Two Steps Back: Mandatory Quality Verification and Corporate Pollution Emissions"
 
 
-permalink: /talks/GMP
+permalink: /portfolio/GMP
 excerpt: 'With Lin Lin (East China Normal University)'
 date: 2024-07-01
 
-
+paperurl: 'http://wenjunwang-econ.github.io/files/GMP_and_Environment_V6_GitHub.pdf'
 ---
 [Download here](http://wenjunwang-econ.github.io/files/GMP_and_Environment_V6_GitHub.pdf)
 
