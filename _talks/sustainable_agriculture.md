@@ -2,7 +2,10 @@
 title: "Supporting Sustainable Agriculture through a Synergy of Commercial and Investment Banking"
 excerpt: "Lead a team in drafting the first blue paper on climate change investment and financing in the agricultural sector"
 collection: talks
+paperurl: 'http://wenjunwang-econ.github.io/files/绿色金融深化发展背景下“商行+投行”支持农业可持续发展蓝皮书.pdf'
+
 ---
+[Download here](http://wenjunwang-econ.github.io/files/绿色金融深化发展背景下“商行+投行”支持农业可持续发展蓝皮书.pdf)
 
 China’s agricultural sector holds a historically prominent position, serving as a foundation for establishing a socialist modernized powerhouse. 
 Sustainable agricultural development represents a core component of high-quality agricultural advancement and is essential to the nation’s strategy for agricultural modernization.
