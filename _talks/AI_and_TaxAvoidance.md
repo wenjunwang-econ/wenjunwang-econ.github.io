@@ -12,7 +12,7 @@ date: 2024-04-01
 paperurl: 'http://wenjunwang-econ.github.io/files/AI_TaxAvoidance_V3_GitHub.pdf'
 
 ---
-[Download here](http://wenjunwang-econ.github.io/files/ETS_and_Debt _V3_GitHub.pdf)
+[Download here](http://wenjunwang-econ.github.io/files/AI_TaxAvoidance_V3_GitHub.pdf)
 
 This paper examines the association between the adoption of artificial intelligence and corporate tax avoidance practices among Chinese firms. Utilizing a novel text-based
 metric to quantify AI adoption, our analysis reveals a positive correlation between AI integration and tax avoidance behaviors. Specifically, a one-standard-deviation
