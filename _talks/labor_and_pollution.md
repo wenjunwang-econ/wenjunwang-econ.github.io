@@ -7,7 +7,7 @@ type: "Tutorial"
 
 permalink: /talks/labor_and_pollution
 excerpt: 'With Yanan Li (Beijing Normal University)'
-date: 2024-11-01
+date: 2024-10-01
 
 paperurl: 'http://wenjunwang-econ.github.io/files/Labor_and_Environment_V11_GitHub.pdf'
 
