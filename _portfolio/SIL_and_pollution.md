@@ -6,6 +6,7 @@ permalink: /portfolio/SIL_and_pollution
 excerpt: 'With Yanan Li (Beijing Normal University) and Yu Qin (Singapore National University)'
 
 paperurl: 'http://wenjunwang-econ.github.io/files/SIL_and_Environment_V35_GitHub.pdf'
+
 ---
 [Download here](http://wenjunwang-econ.github.io/files/SIL_and_Environment_V35_GitHub.pdf)
 
