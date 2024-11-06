@@ -1,5 +1,5 @@
 ---
-title: "Size and Performance of Chinese Mutual Funds: the Role of Economy of Scale and Liquidity"
+title: "From Employer Responsibility to Environmental Irresponsibility: Unintended Effects of Social Insurance Law on Pollution Emissions"
 collection: publications
 category: manuscripts
 permalink: /publication/PBFJ_2012
