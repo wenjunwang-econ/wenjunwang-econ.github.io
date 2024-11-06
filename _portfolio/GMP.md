@@ -4,7 +4,7 @@ title: "One Step Forward, Two Steps Back: Mandatory Quality Verification and Cor
 
 permalink: /portfolio/GMP
 excerpt: 'With Lin Lin (East China Normal University)'
-date: 2024-07-01
+date: 2024-05-01
 
 paperurl: 'http://wenjunwang-econ.github.io/files/GMP_and_Environment_V6_GitHub.pdf'
 ---
