@@ -5,7 +5,7 @@ title: "Blue Sky Protection and Corporate Financing Decisions-- Evidence from Ul
 collection: talks
 type: "Tutorial"
 
-permalink: /talks/labor_and_pollution
+permalink: /talks/emission_standards
 excerpt: 'With Jia Liu (Portsmouth University)'
 date: 2024-11-01
 
