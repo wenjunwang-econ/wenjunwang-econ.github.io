@@ -1,0 +1,13 @@
+---
+title: "Size and Performance of Chinese Mutual Funds: the Role of Economy of Scale and Liquidity"
+collection: publications
+category: manuscripts
+permalink: /publication/PBFJ_2012
+excerpt: 'Inverted U-shape relationship exists between size and performance.'
+date: 2012-01-01
+venue: 'Pacific-Basin Finance Journal'
+paperurl: 'http://wenjunwang-econ.github.io/files/PBFJ_publication.pdf'
+citation: 'Tang, Ke, Wenjun Wang, and Rong Xu. "Size and performance of Chinese mutual funds: The role of economy of scale and liquidity." Pacific-Basin Finance Journal 20.2 (2012): 228-246.'
+---
+
+Using a detailed stockholding for a comprehensive sample of Chinese open-end equity mutual funds from 2004 to the first half of 2010, we investigated the effect of economy of scale and liquidity on the relationship between fund size and performance. We find that an inverted U-shape relationship exists between fund size and performance as measured by various performance benchmarks. Both economy of scale and liquidity play important roles in Chinese mutual funds. Furthermore, their combined effect explains the inverted U-shape relationship of size and performance reasonably well.
