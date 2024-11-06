@@ -7,7 +7,7 @@ type: "Tutorial"
 
 permalink: /talks/AI_emission
 excerpt: 'With Sebastien Houde (HEC Lausanne)'
-date: 2024-11-01
+date: 2024-10-01
 
 
 ---
