@@ -7,7 +7,7 @@ type: "Tutorial"
 
 permalink: /talks/SIL_and_pollution
 excerpt: 'With Yanan Li (Beijing Normal University) and Yu Qin (Singapore National University)'
-date: 2024-10-01
+date: 2024-11-01
 
 paperurl: 'http://wenjunwang-econ.github.io/files/SIL_and_Environment_V35_GitHub.pdf'
 
