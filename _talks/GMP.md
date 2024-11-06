@@ -7,7 +7,7 @@ type: "Tutorial"
 
 permalink: /talks/GMP
 excerpt: 'With Lin Lin (East China Normal University)'
-date: 2024-06-01
+date: 2024-09-01
 
 
 ---
