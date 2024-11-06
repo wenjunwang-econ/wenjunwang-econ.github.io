@@ -7,7 +7,7 @@ type: "Tutorial"
 
 permalink: /talks/emission_standards
 excerpt: 'With Jia Liu (Portsmouth University)'
-date: 2024-09-01
+date: 2024-07-01
 
 paperurl: 'http://wenjunwang-econ.github.io/files/Blue_sky_protection-EmissionStandards-V6_GitHub.pdf'
 
