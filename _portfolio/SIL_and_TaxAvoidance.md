@@ -2,7 +2,7 @@
 title: "Whack-A-Mole Effect: Social Insurance Policy and Tax Avoidance"
 
 
-permalink: /talks/SIL_and_TaxAvoidance
+permalink: /portfolio/SIL_and_TaxAvoidance
 excerpt: 'With Yanan Li (Beijing Normal University), Jia Liu (Portsmouth University)'
 date: 2024-11-01
 
