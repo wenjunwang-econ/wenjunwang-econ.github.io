@@ -4,7 +4,7 @@ title: "Make Hay while the Sun Shines: Artificial Intelligence and Carbon Emissi
 
 permalink: /portfolio/AI_emission
 excerpt: 'With Sebastien Houde (HEC Lausanne)'
-date: 2024-10-01
+date: 2024-02-01
 
 
 ---
