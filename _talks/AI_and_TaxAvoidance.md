@@ -7,7 +7,7 @@ type: "Tutorial"
 
 permalink: /talks/AI_and_TaxAvoidance
 excerpt: 'With Jia Liu (Portsmouth University)'
-date: 2024-04-01
+date: 2024-03-01
 
 paperurl: 'http://wenjunwang-econ.github.io/files/AI_TaxAvoidance_V3_GitHub.pdf'
 
