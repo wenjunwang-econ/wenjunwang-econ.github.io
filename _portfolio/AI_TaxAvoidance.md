@@ -4,7 +4,7 @@ title: "Two Birds with One Stone: Artificial Intelligence, Innovation and Corpor
 permalink: /portfolio/AI_and_TaxAvoidance
 excerpt: 'With Jia Liu (Portsmouth University)'
 
-
+date: 2024-09-01
 paperurl: 'http://wenjunwang-econ.github.io/files/AI_TaxAvoidance_V3_GitHub.pdf'
 
 ---
