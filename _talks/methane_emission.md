@@ -1,6 +1,6 @@
 ---
 title: "Methane Emission Reduction in China's Agricultural Sector"
-excerpt: "Lead a team in drafting the first blue paper on climate change investment and financing in the agricultural sector"
+excerpt: "How to Use Finance to promote emisson reduction on methane."
 collection: talks
 paperurl: 'http://wenjunwang-econ.github.io/files/甲烷减排金融.pdf'
 
