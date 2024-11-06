@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/company_visits_JAM
 excerpt: 'Company visits provide information.'
-date: 2024-06-01
+date: 2022-06-01
 venue: 'Journal of Asset Management'
 paperurl: 'http://wenjunwang-econ.github.io/files/Li_Wang_MutualFund_Journal_of_Asset_Management_2022.pdf'
 citation: 'Li, Yanan, and Wenjun Wang. "Company visits and mutual fund performance: new evidence on managerial skills." Journal of Asset Management 23.6 (2022): 504-521.'
