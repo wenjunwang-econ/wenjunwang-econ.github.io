@@ -7,7 +7,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Business connection between underwriter and investors affects pricing'
 date: 2024-01-04
 venue: 'Review of Quantitative Finance and Accounting'
-paperurl: 'http://wenjunwang-econ.github.io/files/Wang_Relationship-based bidding in IPO auctions_Review of Quantitative Finance and Accounting_2024.pdf'
+paperurl: 'http://wenjunwang-econ.github.io/files/Wang_bidding_RQFA_2024.pdf'
 citation: 'Wang, Wenjun. "You scratch my back and i scratch yours: evidence from relationship-based bidding in IPO auctions." Review of Quantitative Finance and Accounting (2024): 1-21.'
 ---
 
