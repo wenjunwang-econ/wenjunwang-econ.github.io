@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /talks/SIL_and_pollution
 excerpt: 'With Yanan Li (Beijing Normal University'
 
-paperurl: 'http://wenjunwang-econ.github.io/files/SIL_and_Environment V35_GitHub.pdf'
+paperurl: 'http://wenjunwang-econ.github.io/files/SIL_and_Environment_V35_GitHub.pdf'
 citation: 'Tang, Ke, Wenjun Wang, and Rong Xu. "Size and performance of Chinese mutual funds: The role of economy of scale and liquidity." Pacific-Basin Finance Journal 20.2 (2012): 228-246.'
 ---
 
