@@ -1,6 +1,6 @@
 ---
 title: "Blue Paper on Sustainable Agriculture"
-excerpt: "I lead a team in drafting the first blue paper on climate change investment and financing in China's agricultural sector"
+excerpt: "Lead a team in drafting the first blue paper on climate financing in China's agricultural sector"
 collection: talks
 paperurl: 'http://wenjunwang-econ.github.io/files/绿色金融深化发展背景下“商行+投行”支持农业可持续发展蓝皮书.pdf'
 
