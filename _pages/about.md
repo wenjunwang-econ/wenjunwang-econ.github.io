@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am an applied micro-economist and currently work at the Agricultural Bank of China. I employ both reduced-form econometrics and structural modeling methods to explore critical issues in environmental economics, climate change, and agricultural finance. 
+I am an applied microeconomist currently employed at the Agricultural Bank of China. My research utilizes both reduced-form econometric techniques and structural modeling to investigate key issues in environmental economics, climate change, and agricultural finance.
 
-I obtained my Ph.D. degree from the University of Maryland-College Park in 2018, supervised by Professor Sebastien Houde (now in HEC Lausanne), and received my bachelor and master degree from Renmin University of China. 
+I earned my Ph.D. from the University of Maryland-College Park in 2018, under the supervision of Professor Sebastien Houde [https://sebastien-houde.com] (now at HEC Lausanne), and completed my bachelor’s and master’s degrees at Renmin University of China.
