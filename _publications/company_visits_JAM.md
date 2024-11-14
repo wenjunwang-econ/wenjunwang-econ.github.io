@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/company_visits_JAM
 excerpt: 'with [Yanan Li (Beijing Normal University)](https://yananliecon.weebly.com). Company visits provide valuable information.'
+excerpt: 'Company visits provide valuable information.'
 date: 2022-06-01
 venue: 'Journal of Asset Management'
 paperurl: 'http://wenjunwang-econ.github.io/files/Li_Wang_MutualFund_Journal_of_Asset_Management_2022.pdf'
