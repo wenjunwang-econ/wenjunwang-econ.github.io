@@ -3,7 +3,7 @@ title: "Company Visits and Mutual Fund Performance: New Evidence on Managerial
 collection: publications
 category: manuscripts
 permalink: /publication/company_visits_JAM
-excerpt: 'with [Yanan Li (Beijing Normal University)](https://yananliecon.weebly.com). Company visits provide valuable information.'
+excerpt: 'with [Yanan Li](https://yananliecon.weebly.com)  (Beijing Normal University). Company visits provide valuable information.'
 excerpt: 'Company visits provide valuable information.'
 date: 2022-06-01
 venue: 'Journal of Asset Management'
