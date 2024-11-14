@@ -1,6 +1,6 @@
 ---
 title: "Methane Emission Reduction in the Agricultural Sector"
-excerpt: "Explained how to financial tools to promote the reduction of methane emissions."
+excerpt: "Explained how to use financial tools to promote the reduction of methane emissions"
 collection: talks
 paperurl: 'http://wenjunwang-econ.github.io/files/甲烷减排金融.pdf'
 
