@@ -3,7 +3,7 @@ title: "You Scratch My Back and I Scratch Yours: Evidence from Relationship‑
 collection: publications
 category: manuscripts
 permalink: /publication/bidding_RQFA
-excerpt: 'Business connection really matter!'
+excerpt: 'Business connection really matters!'
 date: 2024-01-04
 venue: 'Review of Quantitative Finance and Accounting'
 paperurl: 'http://wenjunwang-econ.github.io/files/Wang_bidding_RQFA_2024.pdf'
