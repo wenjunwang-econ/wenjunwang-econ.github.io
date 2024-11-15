@@ -1,5 +1,5 @@
 ---
-title: "Make Hay while the Sun Shines: Artificial Intelligence and Carbon Emissions"
+title: "Make Hay While the Sun Shines: Artificial Intelligence and Carbon Emissions"
 
 
 permalink: /portfolio/AI_emission
