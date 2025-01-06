@@ -8,7 +8,6 @@ date: 2024-07-01
 
 
 ---
-[Download here](http://wenjunwang-econ.github.io/files/ETS_and_Debt_V3_GitHub.pdf)
 
 This paper employs China’s regional Emissions Trading System (ETS) pilots as a quasi-natural experiment to examine the impact of climate change regulations on
 corporate short-term debt financing decisions. The empirical analysis indicates that the introduction of the ETS results in a 27.8% reduction in short-term financial
