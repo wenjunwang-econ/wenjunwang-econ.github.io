@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/solar_trade_war
 excerpt: 'with [Sebastien Houde](https://sebastien-houde.com)  (HEC Lausanne). Presented in Berkeley-Harvard-Yale Energy and Environmental Economics Seminar, the U.S. Department of Energy, EAERE Annual Conference'
 date: 2024-11-05
-venue: 'Journal of the Association of Environmental and Resource Economists (conditionally accepted)'
+venue: 'Journal of the Association of Environmental and Resource Economists (accepted)'
 paperurl: 'http://wenjunwang-econ.github.io/files/incidence-u.s.-china-solar-trade-war_revised_19072024.pdf'
 
 ---
