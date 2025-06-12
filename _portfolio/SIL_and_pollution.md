@@ -3,7 +3,8 @@ title: "From Employer Responsibility to Environmental Irresponsibility: Unintend
 
 
 permalink: /portfolio/SIL_and_pollution
-excerpt: 'Revise and Resubmit to Management Science.        With Yanan Li (Beijing Normal University) and Yu Qin (Singapore National University)'
+excerpt: 'Revise and Resubmit to *Management Science*        
+          With Yanan Li (Beijing Normal University) and Yu Qin (Singapore National University)'
 
 
 date: 2024-01-01
