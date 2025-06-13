@@ -6,7 +6,7 @@ permalink: /portfolio/SIL_and_pollution
 excerpt: 'Revise and Resubmit to *Management Science*.
           With Yanan Li (Beijing Normal University) and Yu Qin (Singapore National University)'
 
-date: 2024-01-01
+date: 2025-01-01
 
 ---
 
