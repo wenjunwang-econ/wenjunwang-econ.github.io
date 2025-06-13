@@ -4,7 +4,7 @@ title: "Caught in a Debt Trap: Financial Distress and Oil Production Decisions"
 
 permalink: /portfolio/oil
 excerpt: 'With Yanan Li (Beijing Normal University)'
-date: 2024-06-01
+date: 2025-03-01
 
 paperurl: 'http://wenjunwang-econ.github.io/files/Debt_and_Oil_revised_V73_GitHub.pdf'
 
