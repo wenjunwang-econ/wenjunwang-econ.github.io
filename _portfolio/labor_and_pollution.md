@@ -4,7 +4,7 @@ title: "Penny Wise and Pound Foolish: Labor Adjustment Cost, Financial Constrain
 
 permalink: /portfolio/labor_and_pollution
 excerpt: 'With Yanan Li (Beijing Normal University)'
-date: 2024-04-01
+date: 2025-03-15
 
 
 
