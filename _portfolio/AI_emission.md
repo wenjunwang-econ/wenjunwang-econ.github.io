@@ -1,12 +1,12 @@
 ---
-title: "Make Hay While the Sun Shines: Artificial Intelligence and Carbon Emissions"
+title: "AI Adoption and Carbon Emissions: Firm-level Analysis"
 
 
 permalink: /portfolio/AI_emission
 excerpt: 'With Sebastien Houde (HEC Lausanne)'
-date: 2024-02-01
+date: 2025-02-01
 
 
 ---
 
-This study investigates the relationship between artificial intelligence (AI) adoption and carbon emissions within Chinese firms. By employing a novel text-based measure to quantify AI adoption, we identify a negative association between AI integration and carbon emission intensities. Specifically, a one-standard-deviation increase in AI investment correlates with a 2.29 percentage point decrease in carbon emission intensities. The impact is particularly significant for state-owned enterprises, high-emission firms, and firms located in non-eastern regions. Mechanism analysis indicates that reductions in carbon emission intensities are driven by enhancements in energy management efficiency and growth in green innovation. Overall, our findings underscore AI’s potential as a crucial instrument in addressing climate change.
+This paper investigates the relationship between AI adoption and carbon emissions intensity. Using a micro-level dataset of Chinese firms, we find that a firm's carbon intensity decreases following the adoption of AI. The effect is particularly pronounced among large firms, those headquartered in regions near an AI hub, and those in high-carbon industries. We investigate several mechanisms and find that AI adoption is associated with increases in energy management processes, green innovation, inventory efficiency, overall productivity, and the share of specialized labor. Finally, we show that AI-induced carbon reductions are subject to a rebound effect of about 50%.
