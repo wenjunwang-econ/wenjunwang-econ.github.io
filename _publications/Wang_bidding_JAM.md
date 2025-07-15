@@ -3,7 +3,6 @@ title: "Can Experience Mitigate Precautionary Bidding? Evidence from a Quasi�
 collection: publications
 category: manuscripts
 permalink: /publication/Wang_bidding_JAM
-excerpt: 'Experience mitigates precautionary behavior.'
 date: 2023-6-01
 venue: 'Journal of Asset Management'
 paperurl: 'http://wenjunwang-econ.github.io/files/Wang_precautionary_bidding_Journal_of_Asset_Management_2022.pdf'
