@@ -8,7 +8,7 @@ excerpt: 'Revise and Resubmit at *Management Science*.
 
 date: 2025-01-01
 
-paperurl: '[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5147327]'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5147327'
 ---
 [Download here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5147327)
 
