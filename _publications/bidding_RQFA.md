@@ -2,6 +2,7 @@
 title: "You Scratch My Back and I Scratch Yours: Evidence from Relationship‑based Bidding in IPO Auctions"
 collection: publications
 category: manuscripts
+excerpt: 'Business relationship matters!'
 permalink: /publication/bidding_RQFA
 date: 2024-01-04
 venue: 'Review of Quantitative Finance and Accounting'
