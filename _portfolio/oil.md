@@ -1,5 +1,5 @@
 ---
-title: "Caught in a Debt Trap: Financial Distress and Oil Production Decisions"
+title: "Caught in a Debt Trap: Financial Distress and Corporate Production Decisions"
 
 
 permalink: /portfolio/oil
