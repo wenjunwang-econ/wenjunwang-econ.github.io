@@ -1,8 +1,9 @@
 ---
 title: "Caught in a Debt Trap: Financial Distress and Corporate Production Decisions"
+collection: publications
+category: manuscripts
 
-
-permalink: /portfolio/oil
+permalink: /publication/oil
 excerpt: 'with [Yanan Li](https://yananliecon.weebly.com) (Beijing Normal University)'
 date: 2025-05-05
 venue: 'International Journal of Finance & Economics (forthcoming)'
