@@ -2,7 +2,7 @@
 title: "Can Experience Mitigate Precautionary Bidding? Evidence from a Quasi‑experiment at an IPO Auction"
 collection: publications
 category: manuscripts
-excerpt: 'Experience helps in bidding.'
+excerpt: 'Takeaway message: Experience helps in bidding.'
 permalink: /publication/Wang_bidding_JAM
 date: 2023-6-01
 venue: 'Journal of Asset Management'
