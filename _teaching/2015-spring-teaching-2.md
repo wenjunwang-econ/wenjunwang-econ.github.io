@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Economics of Carbon Pricing"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "HKUST(GZ), CNCC Thrust"
+date: 2026 Spring (expected)
+location: "Guangzhou, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
