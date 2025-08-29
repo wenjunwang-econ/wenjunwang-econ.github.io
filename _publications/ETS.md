@@ -11,7 +11,7 @@ paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S03014215250031
 ---
 This paper employs China’s regional Emissions Trading System (ETS) pilots as a quasi-natural experiment to 
 examine the impact of climate change regulations on corporate short-term debt financing decisions. The 
-empirical analysis indicates that the introduction of the ETS results in a 30.4 % reduction in short-term financial 
+empirical analysis indicates that the introduction of the ETS results in a 30.4% reduction in short-term financial 
 leverage among regulated firms compared to their non-regulated counterparts, while keeping unchanged in their 
 long-term debt. This effect is particularly pronounced for firms headquartered in regions with lower free quota 
 rates and those with less government ownership. The mechanism analysis suggests that the regional ETS has 
