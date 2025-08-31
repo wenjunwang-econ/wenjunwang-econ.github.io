@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/solar_trade_war
 excerpt: 'with [Sebastien Houde](https://sebastien-houde.com)  (HEC Lausanne). Presented in Berkeley-Harvard-Yale Energy and Environmental Economics Seminar, the U.S. Department of Energy, EAERE Annual Conference'
-date: 2025-06-05
+date: 2025-12-05
 venue: 'Journal of the Association of Environmental and Resource Economists (forthcoming)'
 paperurl: 'https://www.journals.uchicago.edu/doi/10.1086/736763'
 
