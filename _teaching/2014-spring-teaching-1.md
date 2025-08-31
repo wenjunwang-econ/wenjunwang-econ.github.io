@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Maryland, Department of Agricultural and Resource Economics"
-date: 2017
+date: 2014
 location: "Maryland, United States"
 ---
 
