@@ -4,14 +4,11 @@ collection: publications
 category: manuscripts
 
 permalink: /publication/energy_policy
-date: 2025-08-11
+date: 2025-09-11
 venue: 'Energy Policy'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S030142152500312X'
 
-
 ---
-
-
 This paper employs China’s regional Emissions Trading System (ETS) pilots as a quasi-natural experiment to 
 examine the impact of climate change regulations on corporate short-term debt financing decisions. The 
 empirical analysis indicates that the introduction of the ETS results in a 30.4% reduction in short-term financial 
