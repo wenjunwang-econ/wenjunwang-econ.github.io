@@ -2,7 +2,6 @@
 title: "Roll with the punches: Climate change regulation and short-term financing"
 collection: publications
 category: manuscripts
-
 permalink: /publication/energy_policy
 date: 2025-09-11
 venue: 'Energy Policy'
@@ -22,3 +21,5 @@ increased firms’ environmental compliance costs and financial distress risks, 
 debt financing. These findings substantiate the argument that the ETS has inadvertently impaired firms’ access to 
 short-term credit by elevating their distress risk. This research underscores the unintended consequences of 
 climate policy on the maturity structure of corporate debt.
+
+
