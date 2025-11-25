@@ -3,7 +3,7 @@ title: "The Incidence of the U.S.-China Solar Trade War"
 collection: publications
 category: manuscripts
 permalink: /publication/solar_trade_war
-excerpt: 'with [Sebastien Houde](https://sebastien-houde.com)  (HEC Lausanne). Covered in [U.S.-China Economic and Security Review Commission](https://www.uscc.gov/sites/default/files/2024-05/May_23_2024_Hearing_Transcript.pdf), [MOST Policy Initiative](https://mostpolicyinitiative.org/science-note/tariffs-solar-products/), [Tax Foundation](https://taxfoundation.org/blog/who-pays-tariffs/)'
+excerpt: 'with [Sebastien Houde](https://sebastien-houde.com)  (HEC Lausanne). Covered in [U.S.-China Economic and Security Review Commission](https://www.uscc.gov/sites/default/files/2024-05/May_23_2024_Hearing_Transcript.pdf),[Peterson Institute for International Economics](https://www.piie.com/blogs/realtime-economics/2024/can-trump-replace-income-taxes-tariffs),   [Tax Foundation](https://taxfoundation.org/blog/who-pays-tariffs/), [MOST Policy Initiative](https://mostpolicyinitiative.org/science-note/tariffs-solar-products/)'
 date: 2026-01-01
 venue: 'Journal of the Association of Environmental and Resource Economists'
 paperurl: 'https://www.journals.uchicago.edu/doi/10.1086/736763'
