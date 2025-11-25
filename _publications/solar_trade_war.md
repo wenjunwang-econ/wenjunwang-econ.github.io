@@ -3,9 +3,9 @@ title: "The Incidence of the U.S.-China Solar Trade War"
 collection: publications
 category: manuscripts
 permalink: /publication/solar_trade_war
-excerpt: 'with [Sebastien Houde](https://sebastien-houde.com)  (HEC Lausanne). Presented in Berkeley-Harvard-Yale Energy and Environmental Economics Seminar, the U.S. Department of Energy, EAERE Annual Conference'
-date: 2025-12-05
-venue: 'Journal of the Association of Environmental and Resource Economists (forthcoming)'
+excerpt: 'with [Sebastien Houde](https://sebastien-houde.com)  (HEC Lausanne). Covered in [U.S.-China Economic and Security Review Commission (May 2024 hearing transcript)](https://www.uscc.gov/sites/default/files/2024-05/May_23_2024_Hearing_Transcript.pdf), [MOST Policy Initiative](https://mostpolicyinitiative.org/science-note/tariffs-solar-products/)'
+date: 2026-01-01
+venue: 'Journal of the Association of Environmental and Resource Economists'
 paperurl: 'https://www.journals.uchicago.edu/doi/10.1086/736763'
 
 
