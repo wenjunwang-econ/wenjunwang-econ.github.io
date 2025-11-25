@@ -1,5 +1,5 @@
 ---
-title: "The Incidence of the U.S.-China Solar Trade War"
+title: "The Incidence of the US-China Solar Trade War"
 collection: publications
 category: manuscripts
 permalink: /publication/solar_trade_war
