@@ -11,10 +11,6 @@ paperurl: 'https://www.journals.uchicago.edu/doi/10.1086/736763'
 
 ---
 
-This paper investigates the distributional welfare effects of the trade tariffs initiated by the U.S. government against Chinese solar manufacturers between 2012 and 2018. We estimate
-a structural econometric model incorporating the vertical structure between upstream solar manufacturers and downstream solar installers. Counterfactual simulations show the tariffs
-had a small positive impact on U.S. manufacturers but a large negative impact on U.S. installers. Chinese manufacturers were also negatively economically affected. Moreover, we
-estimate the tariff pass-through rate, which we find to exceed one due to the imperfectly competitive nature of the industry. Ultimately, the burden of the solar trade war thus felt
-disproportionately on U.S. consumers.
+This study investigates the distributional welfare effects of the trade tariffs initiated by the US government against Chinese solar manufacturers between 2012 and 2018. We estimate a structural econometric model that incorporates the vertical structure between upstream solar manufacturers and downstream solar installers. Counterfactual simulations show that the tariffs had a small positive impact on US manufacturers but a large negative impact on US installers. Chinese manufacturers were also negatively affected economically. Moreover, we estimate the tariff pass-through rate, which we find to exceed one due to the imperfectly competitive nature of the industry. Ultimately, the burden of the solar trade war thus fell disproportionately on US consumers.
 
 
