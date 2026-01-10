@@ -12,6 +12,7 @@ About the Position:
 The successful candidate will work closely with Professors Wenjun Wang and Sebastien Houde. The research employs structural econometric modeling to investigate how market structures and frictions shape the adoption and diffusion of residential solar photovoltaics, with direct implications for energy and environmental policy design.
 
 Research Team:
+
 Prof. Wenjun Wang 
 Assistant Professor, Carbon Neutrality and Climate Change Thrust, HKUST(GZ)  
 https://wenjunwang-econ.github.io
