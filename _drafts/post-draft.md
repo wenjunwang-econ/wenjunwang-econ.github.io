@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Draft Post"
+title:  "Postdoctoral Position Available in Environmental Economics"
 header:
   teaser: "unsplash-gallery-image-2-th.jpg"
 categories: 
@@ -8,12 +8,41 @@ categories:
 tags:
   - edge case
 ---
-Monocle ipsum dolor sit amet handsome pariatur aliqua, hub remarkable irure commodo classic deserunt bespoke. Sunt commodo signature, Swiss minim flat white Tsutaya excepteur artisanal et Nordic laborum joy ANA. Beams mollit exquisite Ginza efficient dolore qui Comme des Garçons Winkreative Lufthansa bulletin global. Iconic sed liveable duis. Mollit dolore eu laboris Comme des Garçons hub pintxos sed eiusmod tote bag Shinkansen nisi consectetur pariatur. Nordic international quis finest Baggu dolore, bureaux hub hand-crafted ut joy sint Airbus A380.
+The Carbon Neutrality and Climate Change Thrust at the Hong Kong University of Science and Technology (Guangzhou) invite applications for a Postdoctoral Researcher position at the intersection of environmental economics and empirical industrial organization. This two-year appointment offers a unique opportunity to conduct cutting-edge research on the solar energy market within an excellent academic environment.
 
-Conversation handsome hub cosy, enim emerging sed K-pop velit Gaggenau charming proident et boulevard ryokan. Remarkable airport deserunt international est, nulla minim magna emerging discerning in exclusive dolor. Commodo dolore deserunt cosy, global Nordic culpa uniforms signature charming. Smart ryokan commodo, eiusmod global occaecat incididunt aliqua Beams. Boulevard conversation excepteur finest Swiss non veniam Comme des Garçons essential artisanal. Destination Scandinavian international, anim Boeing 787 in duis Baggu irure essential.
+About the Position:
+The successful candidate will work closely with Professors Wenjun Wang and Sebastien Houde. The research employs structural econometric modeling to investigate how market structures and frictions shape the adoption and diffusion of residential solar photovoltaics, with direct implications for energy and environmental policy design.
 
-Fugiat exclusive laborum, Gaggenau ad Winkreative sharp elit labore. Remarkable officia ryokan Boeing 787, consectetur boutique Nordic Singapore espresso elit iconic perfect izakaya soft power excepteur. Ut veniam carefully curated K-pop dolore, uniforms in voluptate. Craftsmanship Ettinger Lufthansa sophisticated esse boutique veniam exquisite. Aute cillum bespoke, intricate consectetur in exquisite international lovely bulletin irure Washlet Gaggenau deserunt. Efficient eu quality of life wardrobe labore, dolor emerging airport concierge reprehenderit izakaya dolore liveable Baggu.
+Research Team:
+Prof. Wenjun Wang 
+Assistant Professor, Carbon Neutrality and Climate Change Thrust, HKUST(GZ)  
+https://wenjunwang-econ.github.io
 
-Commodo elegant essential consectetur Gaggenau culpa consequat id sophisticated St Moritz sunt conversation duis non velit. Nulla business class non ut Marylebone ANA soft power fugiat carefully curated. Bureaux sed punctual handsome Washlet impeccable hand-crafted aute extraordinary tote bag enim boulevard soft power sleepy. Dolore conversation irure Zürich the best adipisicing, vibrant finest hub anim premium aliqua. Cupidatat smart international, bureaux Baggu id efficient punctual. Tempor nulla flat white enim, K-pop incididunt elit efficient Toto uniforms concierge discerning. Concierge sleepy extraordinary, deserunt Melbourne commodo Nordic Winkreative Washlet Ginza exercitation espresso.
+Prof. Sebastien Houde 
+Associate Professor of Environmental Economics, HEC Lausanne, University of Lausanne  
+https://sebastien-houde.com
 
-Tsutaya sed in business class sharp. Do Beams in adipisicing Lufthansa. Business class occaecat Melbourne, irure Singapore commodo espresso carefully curated quis quality of life adipisicing. Impeccable laborum efficient classic proident in. Beams Helsinki ullamco Marylebone dolore sophisticated concierge Muji anim duis joy ut. Comme des Garçons aute Muji in aliquip ryokan soft power Nordic essential ANA culpa elegant.
+Key Responsibilities:
+1. Develop and estimate random-coefficient discrete choice models (static and dynamic) using detailed, disaggregated data on solar installations.
+2. Analyze the role of market structure and friction in the residential solar market and assess their implications for energy demand and social welfare distribution.
+3. Design and conduct policy simulations to evaluate the heterogeneous impacts of economic shocks, such as trade tariffs.
+Required Qualifications:
+1. A Ph.D. in Economics or a closely related field completed by the appointment start date.
+2. Demonstrated expertise in building and estimating structural models (BLP-type, static/dynamic). Experience in environmental industrial organization is highly desirable.
+3. Advanced programming proficiency in Stata and MATLAB.
+
+What We Offer:
+1.Two-year appointment with a highly competitive compensation and benefits package, including:
+  A comprehensive annual salary of 200,000-480,000 RMB provided by the Principal Investigator.
+  A government-funded living allowance of up to 700,000 RMB.
+  A government-funded research grant of up to 200,000 RMB.
+  Full social insurance and housing provident fund contributions.
+2. Additional Support & Opportunities:
+  Eligibility to apply for an academic talent subsidy of 120,000 RMB.
+  Active support in applying for research grants at various levels during the appointment.
+  Postdoctoral researchers who remain in Guangdong for work after their term may apply for a settlement allowance of up to 700,000 RMB.
+  Assistance in applying for municipal and district-level talent titles and associated benefits.
+  An excellent research environment with opportunities for international collaboration and academic exchange.
+
+Application Instructions:
+To apply or inquire about the position, please email Prof. Wenjun Wang at wenjunwang@hkust-gz.edu.cn. Applications must include a CV and your job market paper, with the email subject line formatted as: “Postdoc Application – [Your Name]”. Review of applications will commence immediately and will continue until the position is filled.
