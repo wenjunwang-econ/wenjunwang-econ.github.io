@@ -35,4 +35,5 @@ Associate Professor of Environmental Economics, HEC Lausanne, University of Laus
 2. **Additional Support & Opportunities**: (1) Eligibility to apply for an academic talent subsidy of 120,000 RMB ($17,143 USD); (2) Active support in applying for research grants at various levels during the appointment; (3) Postdoctoral researchers who remain in Guangdong for work after their term may apply for a settlement allowance of up to 700,000 RMB ($100,000 USD); (4) Assistance in applying for municipal and district-level talent titles and associated benefits; (5) An excellent research environment with opportunities for international collaboration and academic exchange.
 
 **Application Instructions:**
+
 To apply or inquire about the position, please email Prof. Wenjun Wang at wenjunwang@hkust-gz.edu.cn. Applications must include a CV and your job market paper, with the email subject line formatted as: “Postdoc Application – [Your Name]”. Review of applications will commence immediately and will continue until the position is filled.
