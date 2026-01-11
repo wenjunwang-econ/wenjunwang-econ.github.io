@@ -30,13 +30,13 @@ Associate Professor of Environmental Economics, HEC Lausanne, University of Laus
 
 **What We Offer:**
 
-1.Two-year appointment with a highly competitive compensation and benefits package, including:
+1.**Two-year appointment with a highly competitive compensation and benefits package**, including:
   A comprehensive annual salary of 200,000-480,000 RMB ($28,571–$68,571 USD) provided by the Principal Investigator.
   A government-funded living allowance of up to 700,000 RMB ($100,000 USD).
   A government-funded research grant of up to 200,000 RMB ($28,571 USD).
   Full social insurance and housing provident fund contributions.
   
-2. Additional Support & Opportunities:
+2.**Additional Support & Opportunities**:
   Eligibility to apply for an academic talent subsidy of 120,000 RMB ($17,143 USD).
   Active support in applying for research grants at various levels during the appointment.
   Postdoctoral researchers who remain in Guangdong for work after their term may apply for a settlement allowance of up to 700,000 RMB ($100,000 USD).
