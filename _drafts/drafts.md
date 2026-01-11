@@ -3,7 +3,7 @@ title: "Postdoctoral Position Available in Environmental Economics"
 collection: publications
 category: manuscripts
 ---
-The Carbon Neutrality and Climate Change Thrust at the Hong Kong University of Science and Technology (Guangzhou) invite applications for a Postdoctoral Researcher position at the intersection of environmental economics and empirical industrial organization. This two-year appointment offers a unique opportunity to conduct cutting-edge research on the solar energy market within an excellent academic environment.
+The Carbon Neutrality and Climate Change Thrust at the Hong Kong University of Science and Technology (Guangzhou) invite applications for a Postdoctoral Researcher position at the intersection of environmental economics and empirical industrial organization. This two-year appointment offers a unique opportunity to conduct cutting-edge research on the solar energy market within excellent academic environment.
 
 About the Position:
 The successful candidate will work closely with Professors Wenjun Wang and Sebastien Houde. The research employs structural econometric modeling to investigate how market structures and frictions shape the adoption and diffusion of residential solar photovoltaics, with direct implications for energy and environmental policy design.
@@ -29,14 +29,14 @@ Required Qualifications:
 
 What We Offer:
 1.Two-year appointment with a highly competitive compensation and benefits package, including:
-  A comprehensive annual salary of 200,000-480,000 RMB provided by the Principal Investigator.
-  A government-funded living allowance of up to 700,000 RMB.
-  A government-funded research grant of up to 200,000 RMB.
+  A comprehensive annual salary of 200,000-480,000 RMB ($28,571–$68,571 USD) provided by the Principal Investigator.
+  A government-funded living allowance of up to 700,000 RMB ($100,000 USD).
+  A government-funded research grant of up to 200,000 RMB ($28,571 USD).
   Full social insurance and housing provident fund contributions.
 2. Additional Support & Opportunities:
-  Eligibility to apply for an academic talent subsidy of 120,000 RMB.
+  Eligibility to apply for an academic talent subsidy of 120,000 RMB ($17,143 USD).
   Active support in applying for research grants at various levels during the appointment.
-  Postdoctoral researchers who remain in Guangdong for work after their term may apply for a settlement allowance of up to 700,000 RMB.
+  Postdoctoral researchers who remain in Guangdong for work after their term may apply for a settlement allowance of up to 700,000 RMB ($100,000 USD).
   Assistance in applying for municipal and district-level talent titles and associated benefits.
   An excellent research environment with opportunities for international collaboration and academic exchange.
 
