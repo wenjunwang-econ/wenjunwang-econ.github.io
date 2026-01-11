@@ -1,7 +1,5 @@
 ---
 title: "Postdoctoral Position Available in Environmental Economics"
-collection: publications
-category: manuscripts
 ---
 The Carbon Neutrality and Climate Change Thrust at the Hong Kong University of Science and Technology (Guangzhou) invites applications for a Postdoctoral Researcher position at the intersection of environmental economics and empirical industrial organization. This two-year appointment offers a unique opportunity to conduct cutting-edge research on the solar energy market within excellent academic environment.
 
