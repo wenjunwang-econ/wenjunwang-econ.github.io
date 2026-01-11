@@ -10,13 +10,11 @@ The successful candidate will work closely with Professors Wenjun Wang and Sebas
 
 Research Team:
 
-Prof. Wenjun Wang 
+Prof. [Wenjun Wang](https://wenjunwang-econ.github.io)
 Assistant Professor, Carbon Neutrality and Climate Change Thrust, HKUST(GZ)  
-https://wenjunwang-econ.github.io
 
-Prof. Sebastien Houde 
+Prof. [Sébastien Houde](https://sebastien-houde.com)
 Associate Professor of Environmental Economics, HEC Lausanne, University of Lausanne  
-https://sebastien-houde.com
 
 Key Responsibilities:
 1. Develop and estimate random-coefficient discrete choice models (static and dynamic) using detailed, disaggregated data on solar installations.
