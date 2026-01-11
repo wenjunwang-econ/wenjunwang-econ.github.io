@@ -4,7 +4,7 @@ title: "Postdoctoral Position Available in Environmental Economics"
 The Carbon Neutrality and Climate Change Thrust at the Hong Kong University of Science and Technology (Guangzhou) invites applications for a Postdoctoral Researcher position at the intersection of environmental economics and empirical industrial organization. This two-year appointment offers a unique opportunity to conduct cutting-edge research on the solar energy market within excellent academic environment.
 
 About the Position:
-The successful candidate will work closely with Professors Wenjun Wang and Sebastien Houde. The research employs structural econometric modeling to investigate how market structures and frictions shape the adoption and diffusion of residential solar photovoltaics, with direct implications for energy and environmental policy design.
+The successful candidate will work closely with Professors Wenjun Wang and Sébastien Houde. The research employs structural econometric modeling to investigate how market structures and frictions shape the adoption and diffusion of residential solar photovoltaics, with direct implications for energy and environmental policy design.
 
 **Research Team:**
 
