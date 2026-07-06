@@ -2,7 +2,7 @@
 title: "From Employer Responsibility to Environmental Irresponsibility: Unintended Effects of Social Insurance Law on Pollution Emissions"
 
 
-permalink: /portfolio/SIL_and_pollution
+permalink: /publications/SIL_Pollution
 excerpt: 'Accepted at *Management Science*.
           With Yanan Li (Beijing Normal University) and Yu Qin (Singapore National University)'
 
