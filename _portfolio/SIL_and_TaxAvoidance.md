@@ -3,8 +3,8 @@ title: "Whack-A-Mole Effect: Social Insurance Policy and Tax Avoidance"
 
 
 permalink: /portfolio/SIL_and_TaxAvoidance
-excerpt: 'With Yanan Li (Beijing Normal University), Jia Liu (Portsmouth University)'
-date: 2025-05-01
+excerpt: 'Revise and Resubmit at *Journal of International Accounting, Auditing and Taxation*, With Yanan Li (Beijing Normal University), Jia Liu (Portsmouth University)'
+date: 2026-06-01
 
 
 
