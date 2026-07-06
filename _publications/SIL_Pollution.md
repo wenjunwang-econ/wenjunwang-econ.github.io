@@ -3,12 +3,12 @@ title: "From Employer Responsibility to Environmental Irresponsibility: Unintend
 
 
 permalink: /portfolio/SIL_and_pollution
-excerpt: 'Revise and Resubmit at *Management Science*.
+excerpt: 'Accepted at *Management Science*.
           With Yanan Li (Beijing Normal University) and Yu Qin (Singapore National University)'
 
-date: 2025-01-01
+date: 2026-07-01
 
 ---
 [Download here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5147327)
 
-This study examines the unintended impact of the introduction of the 2011 Social Insurance Law on firms’ pollution emissions. Using a difference-in-differences research design, we find that enhanced social insurance contributions provoke higher industrial pollution emissions. The effect is more pronounced in non-SOE firms, firms in heavy-polluting industries, and those subject to lax environmental regulations. The mechanism analysis reveals that the implementation of the Social Insurance Law increases firms’ labor cost and financial distress, and motivates them to reduce efforts on end-of-pipe treatment activities and measures taken during production process, thus leading to higher pollution emission intensity. Overall, our study highlights the potential conflict between employee protection and corporate environmental goals, providing important implications for policy making.
+This study investigates the unintended effect of the introduction of the 2011 Social Insurance Law on corporate pollution emissions. Using a difference-in-differences framework, our analysis reveals that enhanced social insurance contributions lead to higher industrial pollution emissions, as measured by chemical oxygen demand and wastewater emissions. The mechanism analysis indicates that the enforcement of the law increases firms’ labor costs and financial distress, motivating them to reduce efforts on end-of-pipe treatment activities and measures taken during production process, which results in higher pollution emission intensity. Our study highlights the potential conflict between employee protection and corporate environmental goals. Further analysis suggests that stronger environmental monitoring and ESG disclosure requirements can partially mitigate this trade-off, providing valuable insights for policymakers. 
