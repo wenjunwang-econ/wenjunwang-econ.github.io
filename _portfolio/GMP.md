@@ -4,7 +4,7 @@ title: "Mandatory Quality Verification and Corporate Pollution Emissions"
 
 permalink: /portfolio/GMP
 excerpt: 'With Lin Lin (East China Normal University)'
-date: 2025-01-15
+date: 2026-03-01
 
 ---
 [Download here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5012500)
