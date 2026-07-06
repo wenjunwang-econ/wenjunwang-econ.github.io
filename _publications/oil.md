@@ -5,7 +5,7 @@ category: manuscripts
 
 permalink: /publication/oil
 excerpt: 'with [Yanan Li](https://yananliecon.weebly.com) (Beijing Normal University)'
-date: 2025-11-05
+date: 2026-03-05
 venue: 'International Journal of Finance & Economics'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/ijfe.70016'
 
