@@ -6,7 +6,7 @@ permalink: /publication/SIL_Pollution
 excerpt: 'Accepted at *Management Science*.
           With Yanan Li (Beijing Normal University) and Yu Qin (Singapore National University)'
 
-date: 2026-07-01
+date: 2026-01-01
 
 ---
 [Download here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5147327)
