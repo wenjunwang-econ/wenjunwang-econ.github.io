@@ -3,7 +3,7 @@ title: "AI Adoption, Carbon Intensity, and Rebound Effect: Evidence from China"
 
 
 permalink: /portfolio/AI_emission
-excerpt: 'CESifo Working Paper No. 12803. with [Sebastien Houde](https://sebastien-houde.com) (HEC Lausanne)'
+excerpt: 'CESifo Working Paper No. 12803. With [Sebastien Houde](https://sebastien-houde.com) (HEC Lausanne)'
 date: 2026-02-01
 paperurl: 'https://www.ifo.de/DocDL/cesifo1_wp12803.pdf'
 
