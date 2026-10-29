@@ -3,7 +3,7 @@ title: "From Employer Responsibility to Environmental Irresponsibility: Unintend
 collection: publications
 category: manuscripts
 permalink: /publication/SIL_Pollution
-excerpt: 'Accepted. With [Yanan Li](https://yananliecon.weebly.com) (Beijing Normal University) and [Yu Qin](https://www.qinyurain.com) (Singapore National University)'
+excerpt: 'With [Yanan Li](https://yananliecon.weebly.com) (Beijing Normal University) and [Yu Qin](https://www.qinyurain.com) (Singapore National University)'
 date: 2026-10-01
 venue: 'Management Science'
 paperurl: '[https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2025.00714]'
